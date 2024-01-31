@@ -10,8 +10,8 @@ myProfile.hobbies = ["Running", "Reading", "Training", "Talking"];
 myProfile.placesLived = [];
 
 myProfile.placesLived.push({place: "El Tigre, VEN", length: "5 years"});
-myProfile.placesLived.push({ place: "Maracay, VEN", length: "5 years"});
-myProfile.placesLived.push({ place: "Ciudad Bolivar, VEN", length: "13 years"});
+myProfile.placesLived.push({place: "Maracay, VEN", length: "5 years"});
+myProfile.placesLived.push({place: "Ciudad Bolivar, VEN", length: "13 years"});
 
 
 
