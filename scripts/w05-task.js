@@ -42,10 +42,6 @@ const getTemples = async () => {
 
 /* reset Function */
 
-// const reset = () => {
-//   templesElement.innerHTML = ""; 
-// };
-
 const reset = () => {
     // Clear all <article> elements from the templesElement
     const templesElement = document.getElementById('temples');
